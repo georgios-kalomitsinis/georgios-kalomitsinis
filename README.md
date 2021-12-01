@@ -13,15 +13,15 @@ I am a full-stack software | Machine Learning Engineer. I love programming, writ
 🎓 Bachelor's degree in Department of Informatics & Telecommunications - \
 University of Peloponnese (Tripoli) <img align="right" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" width="400"/>
 
-🎓 Master's degree in Advanced Computer and Communication Systems - Aristotle University of Thessaloniki (AUTH).
+🎓 Master's degree in Advanced Computer and Communication Systems - Aristotle University of Thessaloniki (AUTH)
 
-🔭 I’m currently working on Center for Research & Technology Hellas (CERTH), as __Research & Development Associate__, with main focus on _Computer Vision_ applications and _Robotic systems_;
-* Member of the Multimedia Knowledge and Social Media Analytics Laboratory ([MKLab](https://mklab.iti.gr)), and Multimodal Data Fusion and Analytics group ([M4D](https://m4d.iti.gr));
+🔭 I’m currently working on Center for Research & Technology Hellas (CERTH), as __Research & Development Associate__, with main focus on _Computer Vision_ applications and _Robotic systems_
+* Member of the Multimedia Knowledge and Social Media Analytics Laboratory ([MKLab](https://mklab.iti.gr)), and Multimodal Data Fusion and Analytics group ([M4D](https://m4d.iti.gr))
 * Jan 2020 - Present
 
-💬 Ask me about anything, I am happy to help;
+💬 Ask me about anything, I am happy to help
 
-📧 How to reach me: giorgoskalomitsinis@gmail.com;
+📧 How to reach me: giorgoskalomitsinis@gmail.com
 
 
 
