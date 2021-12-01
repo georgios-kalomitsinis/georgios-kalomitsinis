@@ -21,7 +21,7 @@ University of Peloponnese (Tripoli) <img align="right" src="https://user-images.
 
 📧 How to reach me: giorgoskalomitsinis@gmail.com
 
-👊💪 Take care! 
+Take care! 👊💪 
 
 
 <!-- <p align="right">
