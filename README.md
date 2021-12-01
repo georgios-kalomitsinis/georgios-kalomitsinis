@@ -8,8 +8,8 @@ I am a full-stack software engineer. I love programming, writing, speaking and t
 
 ### Talking about Personal Stuffs: 
 
-🎓 Bachelor's degree in Department of Informatics & Telecommunications - \
-University of Peloponnese (Tripoli) <img align="right" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" width="400"/>
+🎓 Bachelor's degree in Department of Informatics & Telecommunications - <img align="right" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" width="400"/>
+University of Peloponnese (Tripoli) 
 
 🎓 Master's degree in Advanced Computer and Communication Systems - Aristotle University of Thessaloniki (AUTH)
 
