@@ -1,6 +1,6 @@
 ### Hi there, I' m Giorgos Kalomitsinis <img src="https://user-images.githubusercontent.com/80779522/144214217-49498e7e-6e8b-446e-a0f8-cfc71f8e4f59.gif" width="40" />
 
-### Glad to see you here!
+### ✨ Glad to see you here! ✨
 
 Software Engineer | Machine Learning Engineer
 
@@ -24,14 +24,9 @@ I am a full-stack software engineer. I love programming, writing, speaking and t
 
 Take care! 👊💪 
 
-
-<!-- <p align="right">
-<img src="https://user-images.githubusercontent.com/80779522/144215247-289a0c58-edcc-4b85-a37e-437b22cdc7d2.gif" width="300" /> -->
-
-<!--
+<!-- 
 **georgios-kalomitsinis/georgios-kalomitsinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
