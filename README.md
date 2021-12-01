@@ -4,11 +4,9 @@
 
 Software Engineer | Machine Learning Engineer
 
-I am a full-stack software | Machine Learning Engineer. I love programming, writing, speaking and traveling.
+I am a full-stack software engineer. I love programming, writing, speaking and traveling.
 
 ### Talking about Personal Stuffs: 
-
-
 
 🎓 Bachelor's degree in Department of Informatics & Telecommunications - \
 University of Peloponnese (Tripoli) <img align="right" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" width="400"/>
