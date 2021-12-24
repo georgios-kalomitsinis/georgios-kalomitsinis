@@ -14,7 +14,7 @@ I am a full-stack software engineer. I love programming, writing, speaking and t
 🎓 Master's degree in Advanced Computer and Communication  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems - Aristotle University of Thessaloniki (AUTH)
 
-🔭 I’m currently working on Center for Research & Technology (CERTH), as __Research & Development Associate__, with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;main focus on _Computer Vision_ applications and _Robotic systems_  
+🔭 I’m currently working on Center for Research & Technology (CERTH), as __Research & Development Associate__, with main focus on _Computer Vision_ applications and _Robotic systems_  
    * Member of the Multimedia Knowledge and Social Media Analytics Laboratory ([MKLab](https://mklab.iti.gr)), and Multimodal Data Fusion and Analytics group ([M4D](https://m4d.iti.gr))    
    * Jan 2020 - Present
 
