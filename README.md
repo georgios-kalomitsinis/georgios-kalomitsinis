@@ -2,7 +2,7 @@
 
 ### ✨ Glad to see you here! ✨
 
-Software Engineer | Machine Learning Engineer
+<!-- Software Engineer | Machine Learning Engineer -->
 
 I am a full-stack software engineer. I love programming, writing, speaking and traveling.
 
