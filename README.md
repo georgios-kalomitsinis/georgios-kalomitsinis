@@ -2,7 +2,7 @@
 
 ### ✨ Glad to see you here! ✨
 
-<!-- Software Engineer | Machine Learning Engineer -->
+<!-- Data Engineer | Machine Learning Engineer -->
 
 I am a full-stack software engineer. I love programming, writing, speaking and traveling.
 
@@ -14,7 +14,7 @@ I am a full-stack software engineer. I love programming, writing, speaking and t
 🎓 Master's degree in Advanced Computer and Communication  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Systems - Aristotle University of Thessaloniki (AUTH)
 
-🔭 I’m currently working on Pfizer, as __Data Engineer__, with main focus on _AWS services_ 
+🔭 I’m currently working on Pfizer, as __Data Engineer__, with main focus on _AWS products_ 
 <!-- applications and _Robotic systems_  
    * Member of the Multimedia Knowledge and Social Media Analytics Laboratory ([MKLab](https://mklab.iti.gr)), and Multimodal Data Fusion and Analytics group ([M4D](https://m4d.iti.gr)) -->    
    * April 2022 - Present
